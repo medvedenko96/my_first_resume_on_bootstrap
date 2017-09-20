@@ -1,0 +1,50 @@
+
+body{
+    background: #e3e3e3;
+
+}
+
+.container {
+    background-color: white;
+}
+
+
+
+.contact {
+    float: right;
+    text-align: start;
+    margin-right: 45px;
+}
+
+.contact_information h3 {
+    display: inline-block;
+    margin: 0;
+}
+
+.margin_h1 {
+    margin-left: 30px;
+}
+
+.margin_text {
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 45px;
+}
+
+.header {
+    margin-top: 45px;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.education p {
+    float: right;
+    margin-right: 45px;
+}
+
+.freelance p {
+    float: right;
+    margin-right: 45px;
+}
+
+
