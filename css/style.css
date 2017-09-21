@@ -1,12 +1,15 @@
 
 body{
     background: #e3e3e3;
-
+    background-image: url(../img/bg.jpg);
+    background-attachment: fixed;
 }
 
+/*
 .container {
     background-color: white;
 }
+*/
 
 
 
